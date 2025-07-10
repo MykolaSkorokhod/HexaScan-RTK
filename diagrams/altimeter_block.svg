@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+  <rect x="10" y="10" width="150" height="50" fill="#ffffcc" stroke="#000" />
+  <text x="30" y="40" font-family="Arial">Висотомір</text>
+  <line x1="160" y1="35" x2="250" y2="35" stroke="#000" />
+  <rect x="250" y="10" width="150" height="50" fill="#ccffff" stroke="#000" />
+  <text x="270" y="40" font-family="Arial">Барометр</text>
+</svg>
